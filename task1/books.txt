@@ -1,2 +1,2 @@
-Đây là nội dung của file
+This is content file
 Автор: Иван Иванов
